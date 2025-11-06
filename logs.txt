@@ -1,0 +1,5 @@
+[INFO] 2025-11-06 10:00:05 - User admin logged in successfully
+[WARNING] 2025-11-06 10:02:11 - Failed login attempt from IP 192.168.1.20
+[ERROR] 2025-11-06 10:03:45 - Unauthorized access detected on port 22
+[INFO] 2025-11-06 10:05:00 - Backup completed successfully
+[WARNING] 2025-11-06 10:06:30 - Invalid password attempt from user guest
